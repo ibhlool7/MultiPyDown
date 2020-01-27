@@ -1,3 +1,6 @@
 downloaded/
 .idea/
 Pipfile.lock
+build/
+dist/
+MultiPyDown.egg-info/
