@@ -59,7 +59,7 @@ class Worker(threading.Thread):
     ns = threading.local()
 
     def run(self):
-        dest = "C:\\Users\\Iman\\Desktop\\python\\ptdown\\downloaded\\"  # or '~/Downloads/' on linux
+        dest = "C:\\Users\\Iman\\Desktop\\python\\PyDown\\downloaded\\"  # or '~/Downloads/' on linux
         obj = SmartDL(self.url, progress_bar=False, dest=dest)
         obj.start(blocking=False)
         while not obj.isFinished():

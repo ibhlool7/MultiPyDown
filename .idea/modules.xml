@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ptdown.iml" filepath="$PROJECT_DIR$/.idea/ptdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PyDown.iml" filepath="$PROJECT_DIR$/.idea/PyDown.iml" />
     </modules>
   </component>
 </project>
